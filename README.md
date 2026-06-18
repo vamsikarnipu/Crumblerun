@@ -1,29 +1,19 @@
-🛡️ Privacy Policy
-
-CrumbleRun
+Privacy Policy for CrumbleRun
 
 Version: 1.0
 Last Updated: June 18, 2026
 
-Welcome
-
-Thank you for using CrumbleRun.
-
-Your privacy is important to us. This Privacy Policy explains what information we collect, how we use it, and the choices you have regarding your data.
-
 1. Information We Collect
 
-When you use CrumbleRun, we may collect:
+When you use CrumbleRun, we may collect the following information:
 
-Google Account Information
+Google Account Information (only if you choose to sign in with Google):
 
 Name
 
 Email address
 
-(Only if you choose to sign in with Google.)
-
-Gameplay Data
+Gameplay Information:
 
 Best score
 
@@ -33,61 +23,49 @@ Games played
 
 Diamonds earned
 
-Device Information
+Device Information:
 
-Device and app information used for analytics, crash reporting, and improving app performance.
+Device information used for analytics, diagnostics, and app performance improvements.
 
 2. How We Use Your Information
 
-Your information is used to:
+The information we collect is used solely to:
 
-🏆 Display your score on the global leaderboard.
+Display your score on the global leaderboard.
 
-☁️ Sync your progress across devices.
+Synchronize your game progress across devices when you sign in.
 
-📈 Improve gameplay and app performance.
+Improve app performance and user experience.
 
-🐞 Detect and fix bugs.
+Detect, diagnose, and fix technical issues.
 
-📊 Analyze anonymous usage statistics.
+Analyze anonymous usage statistics to enhance gameplay.
 
 3. Data Storage
 
-Signed-in Players
+Signed-in Users
 
-Your data is securely stored using Google Firebase Firestore.
+Your account information and gameplay data are securely stored using Google Firebase Firestore.
 
-Guest Players
+Guest Users
 
-Your gameplay data is stored only on your device.
+Gameplay data is stored locally on your device and is not uploaded to our servers.
 
-Your Privacy
+Data Sharing
 
-We do not:
-
-Sell your personal information.
-
-Rent your personal information.
-
-Share your personal information with third parties for marketing purposes.
+We do not sell, rent, trade, or share your personal information with third parties for advertising or marketing purposes.
 
 4. Third-Party Services
 
-CrumbleRun relies on trusted Google services.
+CrumbleRun utilizes the following third-party services to provide core functionality:
 
-Google Firebase
+Google Firebase (Authentication and Cloud Firestore)
 
-Authentication
-
-Cloud Firestore
-
-Google AdMob
-
-In-app advertisements
+Google AdMob (In-App Advertisements)
 
 Google Play Services
 
-These services may collect information according to their own privacy policies.
+These services may collect and process information in accordance with their own privacy policies.
 
 Firebase Privacy Policy:
 https://firebase.google.com/support/privacy
@@ -97,41 +75,32 @@ https://policies.google.com/privacy
 
 5. Children's Privacy
 
-CrumbleRun is designed for users 7 years of age and older.
+CrumbleRun is intended for users 7 years of age and older.
 
-We do not knowingly collect personal information from children under 13 years old without appropriate parental consent.
-
-If you believe a child has provided personal information, please contact us so we can remove it.
+We do not knowingly collect personal information from children under the age of 13 without appropriate parental consent. If you believe that a child has provided us with personal information, please contact us so appropriate action can be taken.
 
 6. Data Deletion
 
-You may request deletion of your account and all associated data at any time.
+You may request the deletion of your account and all associated data at any time.
 
-Please contact:
+To submit a deletion request, please contact:
 
-📧 kardevstudios@gmail.com
+Email: kardevstudios@gmail.com
 
 Requests will be processed within a reasonable timeframe.
 
 7. Changes to This Privacy Policy
 
-We may update this Privacy Policy from time to time.
+We reserve the right to update this Privacy Policy at any time.
 
-When changes are made:
+Any modifications will be posted on this page, and the Last Updated date will be revised accordingly. Continued use of CrumbleRun following any changes constitutes your acceptance of the updated Privacy Policy.
 
-The Last Updated date will be revised.
+8. Contact Information
 
-The updated policy will be published on this page.
-
-By continuing to use CrumbleRun after changes become effective, you agree to the revised Privacy Policy.
-
-8. Contact Us
-
-If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us.
+If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us:
 
 KarDev Studios
+Email: kardevstudios@gmail.com
 
-📧 kardevstudios@gmail.com
-
-© 2026 KarDev Studios. All Rights Reserved.
+© 2026 KarDev Studios. All rights reserved.
 
